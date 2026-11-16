@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/sahandsorouri/sahandsorouri/main/assets/banner.svg" alt="Sahand Sorouri" width="100%">
+
 # Dictate
 
 A tiny macOS menu bar app for dictation. Hold Right Option, speak, let go: the text is pasted where your cursor is, and your old clipboard comes back. For longer talks, press Option+Space, speak hands-free, then tap Option (or press Option+Space again) to finish.
